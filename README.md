@@ -1,13 +1,20 @@
-# ${product}
+# roadvpn
 
-> ⚠️ **BlackRoad OS** is a software company. We are NOT BlackRock (the investment firm).
+VPN service platform
 
----
+## Organization
 
-**Proprietary Software — BlackRoad OS, Inc.**
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
 
-This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+## BlackRoad OS
 
-**BlackRoad OS — Pave Tomorrow.**
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
+
+**Language:** HTML
+
+
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
